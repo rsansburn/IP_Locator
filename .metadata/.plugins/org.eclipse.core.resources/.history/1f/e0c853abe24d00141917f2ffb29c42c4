@@ -1,0 +1,25 @@
+The reason its not working for some is 
+because the folder has to be placed in a location 
+where you can modify a directory through cmd prompt
+
+for some people when you try to do mkdir sei the folder is not created
+
+My solution
+Find WSDL url online
+Next go to your JDK directory(C:\Program Files\Java\jdk1.7.0_21)
+Copy the jdk1.7.0_21 folder
+Paste the folder on your desktop
+
+Go back to command prompt
+Go path you just created on your desktop
+
+which may look something like this
+Ex. C:\Users\Computer Science\Desktop\jdk1.7.0_21
+
+your cmd prompt should look something like this now
+C:\Users\Computer Science\Desktop\jdk1.7.0_21>
+
+Now add the wsimport
+wsimport http://www.webservicex.net/geoipservice.asmx?WSDL
+
+then look for the net file in the directory

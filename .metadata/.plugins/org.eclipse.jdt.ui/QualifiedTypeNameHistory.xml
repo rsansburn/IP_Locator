@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.webservicex.GeoIPService"/>
+<fullyQualifiedTypeName name="net.webservicex.GeoIPServiceSoap"/>
+<fullyQualifiedTypeName name="net.webservicex.GeoIP"/>
+<fullyQualifiedTypeName name="org.kemakolam.javabrains.IPLocationFinder"/>
+<fullyQualifiedTypeName name="net.webservicex.GetGeoIPContext"/>
+<fullyQualifiedTypeName name="net.webservicex.GetGeoIPContextResponse"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,44 @@
+package org.kemakolam.javabrains;
+
+import net.webservicex.GeoIP;
+import net.webservicex.GeoIPService;
+import net.webservicex.GeoIPServiceSoap;
+import net.webservicex.GetGeoIPContext;
+import net.webservicex.GetGeoIPContextResponse;
+
+public class IPLocationFinder {
+
+	public static void main(String[] args) {
+		/*
+		 * make a call to webservice
+		 * http://www.webservicex.net/geoipservice.asmx?WSDL
+		 */
+		if (args.length != 1) {
+			System.out.println("You need to pass in one IP address");
+
+		} else {
+
+			String ipAddress = args[0];
+			// to access remote service call
+			// we need a service endpoint interface
+			// stub.getCountryName (ipAddress)
+
+			// use method of this class to get instance of port
+			GeoIPService ipService = new GeoIPService();
+
+			// this is the stub/ port-> local object representing a remote
+			// service
+			GeoIPServiceSoap geoIPServiceSoap = ipService.getGeoIPServiceSoap();
+
+			// this returns return type
+			GeoIP geoIP = geoIPServiceSoap.getGeoIP(ipAddress);
+			GeoIP geoContext = geoIPServiceSoap.getGeoIPContext();
+
+			// displays country name
+			System.out.println(geoIP.getCountryName());
+			System.out.println(geoIP.getCountryCode());
+			System.out.println(geoContext);
+		}
+	}
+
+}

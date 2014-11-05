@@ -1,0 +1,22 @@
+package org.kemakolam.javabrains;
+
+public class IPLocationFinder {
+
+	public static void main(String[] args) {
+		/*
+		 * make a call to webservice
+		 * http://www.webservicex.net/geoipservice.asmx?WSDL
+		 */
+		if (args.length != 1) {
+			System.out.println("You need to pass in one IP address");
+
+		} else {
+
+			String ipAddress = args[0];
+			// to access remote service call
+			// we need a service endpoint interface
+
+		}
+	}
+
+}
