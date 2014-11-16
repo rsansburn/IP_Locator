@@ -1,10 +1,10 @@
 IP Locator Interactive Proj
 
 What was used to develop the application:
-Created a Dynamic Webservice in Eclipse
-To develop the application i used the Eclipse (Keplar IDE)
-Also used a SOAP webservice called GeoIPService which I found here: http://www.webservicex.net/ws/WSDetails.aspx?WSID=64
-(More details can be found in the files committed)
+  Created a Dynamic Webservice in Eclipse
+  To develop the application i used the Eclipse (Keplar IDE)
+  Also used a SOAP webservice called GeoIPService which I found here: http://www.webservicex.net/ws/WSDetails.aspx?WSID=64
+  (More details can be found in the files committed)
 
 Summary:
 This application is used to return the country location of and IP address.
