@@ -3,44 +3,46 @@ IP Locator Interactive Proj
 What was used to develop the application:
   Created a Dynamic Webservice in Eclipse
   To develop the application i used the Eclipse (Keplar IDE)
-  Also used a SOAP webservice called GeoIPService which I found here: http://www.webservicex.net/ws/WSDetails.aspx?WSID=64
+  Also used a SOAP webservice called GeoIPService which I found here: 
+  http://www.webservicex.net/ws/WSDetails.aspx?WSID=64
+  
   (More details can be found in the files committed)
 
 Summary:
-This application is used to return the country location of and IP address.
+ This application is used to return the country location of and IP address.
 
 How to use:
-Simply click the following link: (will be posed soon)
-Next enter an IP address
-Then click the Submit button
-Finally the location of the IP address should be displayed on the next page
+ Simply click the following link: (will be posed soon)
+ Next enter an IP address
+ Then click the Submit button
+ Finally the location of the IP address should be displayed on the next page
 
 Notes:
-There are some instances in which some IP addresses can not be processed because
-of invalid IP addresses entered(a made up IP address)
+ There are some instances in which some IP addresses can not be processed because
+ of invalid IP addresses entered(a made up IP address)
 
-Another thing is that some IP locations are reserved because it may be protected by
-an ISP for security purposes
+ Another thing is that some IP locations are reserved because it may be protected by
+ an ISP for security purposes
 
 Below are some sample IP address that can be tested:
-Not working: 177.202.116.253
-Reserved: 235.109.43.172
+ Not working: 177.202.116.253
+ Reserved: 235.109.43.172
 
-Taiwan: 140.128.30.207
-Mexico: 189.179.13.177
-Brazil: 200.143.85.146
-Japan: 43.34.71.215
-USA: 174.188.245.154
-Italy: 87.6.220.84
-Poland: 195.117.246.248
-Italy: 87.6.220.84
-UK: 94.228.44.113
-Russia: 178.65.210.178
-Germany: 53.127.131.16
-Australia: 163.128.15.64
-China: 113.87.195.18
+ Taiwan: 140.128.30.207
+ Mexico: 189.179.13.177
+ Brazil: 200.143.85.146
+ Japan: 43.34.71.215
+ USA: 174.188.245.154
+ Italy: 87.6.220.84
+ Poland: 195.117.246.248
+ Italy: 87.6.220.84
+ UK: 94.228.44.113
+ Russia: 178.65.210.178
+ Germany: 53.127.131.16
+ Australia: 163.128.15.64
+ China: 113.87.195.18
 
 Another website to generate IP addresses is the one I found here:
-First click: http://sqa.fyicenter.com/Online_Test_Tools/Test_IP_Address_Generator.php
-Next: Press Start button to generate IP addresses
+ 1st: click-> http://sqa.fyicenter.com/Online_Test_Tools/Test_IP_Address_Generator.php
+ 2nd: Press Start button to generate IP addresses
 
