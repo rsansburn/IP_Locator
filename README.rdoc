@@ -12,7 +12,7 @@ Summary:
  This application is used to return the country location of and IP address.
 
 How to use:
- Simply click the following link: http://caadress.appspot.com/
+ Simply click the following link: [a link](http://caadress.appspot.com/)
  Next enter an IP address
  Then click the Submit button
  Finally the location of the IP address should be displayed on the next page
