@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
 <fullyQualifiedTypeName name="net.webservicex.GeoIPService"/>
 <fullyQualifiedTypeName name="net.webservicex.GeoIPServiceSoap"/>
 <fullyQualifiedTypeName name="net.webservicex.GeoIP"/>
-<fullyQualifiedTypeName name="org.kemakolam.javabrains.IPLocationFinder"/>
-<fullyQualifiedTypeName name="net.webservicex.GetGeoIPContext"/>
-<fullyQualifiedTypeName name="net.webservicex.GetGeoIPContextResponse"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.fault.ServerSOAPFaultException"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
 </qualifiedTypeNameHistroy>

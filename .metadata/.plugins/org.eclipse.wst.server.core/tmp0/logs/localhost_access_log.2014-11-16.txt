@@ -1,0 +1,8 @@
+127.0.0.1 - - [16/Nov/2014:17:12:04 -0800] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [16/Nov/2014:17:12:05 -0800] "GET /IPInteractiveProj/index.html HTTP/1.1" 200 939
+0:0:0:0:0:0:0:1 - - [16/Nov/2014:17:12:05 -0800] "GET /IPInteractiveProj/styles.css HTTP/1.1" 200 1527
+0:0:0:0:0:0:0:1 - - [16/Nov/2014:17:12:05 -0800] "GET /IPInteractiveProj/world.gif HTTP/1.1" 200 376987
+0:0:0:0:0:0:0:1 - - [16/Nov/2014:17:12:05 -0800] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [16/Nov/2014:17:12:05 -0800] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [16/Nov/2014:17:12:34 -0800] "GET /IPInteractiveProj/servlet1?ipAddress=195.117.246.248 HTTP/1.1" 200 469
+0:0:0:0:0:0:0:1 - - [16/Nov/2014:17:12:34 -0800] "GET /IPInteractiveProj/Countries/Poland.png HTTP/1.1" 200 1677

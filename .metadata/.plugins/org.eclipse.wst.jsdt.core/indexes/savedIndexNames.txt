@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\Computer Science\Desktop\Latest Projects\Eclipse Projects\Keplar Projects(J2EE)\tempInteractiveIPLocator\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3472108934.index
+4018020981.index
+3195338193.index
+19205663.index
+3488631940.index
+727418872.index

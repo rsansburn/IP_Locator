@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+<link rel ="stylesheet" type ="text/css" href="styles.css">
+</head>
+<body>
+
+<form name = "myForm" action="servlet1" method="get">
+		<p class = "pos_left">Enter IP Address:</p>
+		<input type="text" id ="ipBoxSize" name="ipAddress" pattern="\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b" title="ex. 12.34.567.890"><br>
+		<button type="submit" value="Submit">Submit</button>
+	</form>	
+	</body>
+</html>

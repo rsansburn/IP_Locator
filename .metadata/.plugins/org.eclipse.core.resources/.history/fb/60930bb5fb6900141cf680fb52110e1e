@@ -1,0 +1,79 @@
+@CHARSET "ISO-8859-1";
+
+button {
+	color: #900;
+	font-weight: bold;
+	font-size: 150%;
+	text-transform: uppercase;
+}
+
+#back {
+	color: #900;
+	font-weight: bold;
+	font-size: 150%;
+	text-transform: uppercase;
+	position: relative;
+	left: 520px;
+}
+
+body {
+	background-image: url("world.gif");
+	background-repeat: no-repeat;
+	background-size: 600px 600px;
+	background-position: 260px 5px, center;
+}
+
+form {
+	position: absolute;
+	left: 510px;
+	top: 150px;
+}
+
+p.pos_left {
+	position: relative;
+	left: -60px;
+	top: 26px;
+	font-size: 40px;
+}
+
+p.posReturnLocation {
+	position: relative;
+	left: 340px;
+	top: 26px;
+	font-size: 40px;
+}
+
+p.tryAgain {
+	background-color: white;
+	position: relative;
+	left: 390px;
+	top: 26px;
+	font-size: 40px;
+	width: 370px;
+}
+
+#ipErrorFormat {
+	background-color: white;
+	font-size: 40px;
+	left: 310px;
+	position: relative;
+	text-align: center;
+	top: 60px;
+	width: 480px;
+}
+
+p.ipReturnAddress {
+	
+}
+
+#flagImage {
+	border:5px solid #021a40;
+}
+
+#ipBoxSize {
+	font-size: 35pt;
+	height: 50px;
+	width: 370px;
+	position: relative;
+	right: 113px;
+}

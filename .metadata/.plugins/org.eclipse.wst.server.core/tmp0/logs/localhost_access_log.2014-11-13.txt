@@ -1,0 +1,6 @@
+127.0.0.1 - - [13/Nov/2014:10:46:15 -0800] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [13/Nov/2014:10:46:15 -0800] "GET /IPInteractiveProj/ HTTP/1.1" 200 939
+0:0:0:0:0:0:0:1 - - [13/Nov/2014:10:46:15 -0800] "GET /IPInteractiveProj/styles.css HTTP/1.1" 200 1527
+0:0:0:0:0:0:0:1 - - [13/Nov/2014:10:46:15 -0800] "GET /IPInteractiveProj/world.gif HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Nov/2014:10:46:58 -0800] "GET /IPInteractiveProj/servlet1?ipAddress=189.179.13.177 HTTP/1.1" 200 468
+0:0:0:0:0:0:0:1 - - [13/Nov/2014:10:46:59 -0800] "GET /IPInteractiveProj/Countries/Mexico.png HTTP/1.1" 200 32232

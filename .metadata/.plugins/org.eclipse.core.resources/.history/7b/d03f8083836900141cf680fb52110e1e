@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<link rel ="stylesheet" type ="text/css" href="styles.css">
+</head>
+<body>
+
+<form action="servlet1" method="get">
+<p class = "pos_left"><font size="6px">Enter IP Address: </font></p>
+
+<input type="text" id ="ipBoxSize" name="ipAddress"><br>
+
+		<button type="submit" value="Submit">Submit</button>
+	</form>
+	
+	</body>
+</html>
