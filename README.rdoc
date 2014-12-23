@@ -1,4 +1,4 @@
-IP Locator Interactive Proj
+<b>IP Locator Interactive Proj</b>
 
 What was used to develop the application:
   Created a Dynamic Webservice in Eclipse
