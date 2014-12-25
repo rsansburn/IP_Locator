@@ -9,7 +9,7 @@ What was used to develop the application:
   (More details can be found in the files committed)
 
 Summary:
- This application is used to return the country location of and IP address.
+ This application is used to return the country location of an IP address.
 
 How to use:
  Simply click the following link: 
